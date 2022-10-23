@@ -2,7 +2,7 @@
 
 # MyNature
 
-Greenpeace adalah sebuah organisasi non-profit yang bergerak di bidang lingkungan hidup dan hak asasi manusia. Kami tim FE-14 mendapatkan Challenge Partner dari Greenpeace untuk membuat sebuah website yang dapat membantu mereka menyelesaikan masalah dan isu permasalahan lainnya.
+Tim FE-12 mendapatkan Challenge Partner dari Greenpeace yang merupakan sebuah organisasi non-profit yang bergerak di bidang lingkungan hidup dan hak asasi manusia untuk membuat sebuah website yang dapat membantu mereka menyelesaikan masalah dan isu permasalahan lainnya. Dari challenge tersebut maka kami membuat website bernama MyNature
 
 ![Screenshot 1]()
 
@@ -18,30 +18,25 @@ Greenpeace adalah sebuah organisasi non-profit yang bergerak di bidang lingkunga
 
 [https://greenpeace-staging.netlify.app/](https://greenpeace-staging.netlify.app/)
 
-### Local
-
--
 
 ### Design
 
-- Figma Mockup : [Figma Mockup Link](https://www.figma.com/file/MX4CVAmrUe4FrkFrOmVDgU/Greenpeace-Mockups?node-id=119%3A31011)
-- Figma Prototype :
-- Wireframes (Whimsical) : [Wireframes Link](https://whimsical.com/greenpeace-wireframe-PF2tuqF2hMAvC8R775c7Xa@7YNFXnKbYkjeN7qQXEaz4)
+- Mockup : [Mockup Link](https://www.figma.com/file/MX4CVAmrUe4FrkFrOmVDgU/Greenpeace-Mockups?node-id=119%3A31011)
+- Prototype :
+- Wireframes (Whimsical) : [Wireframes Link](https://whimsical.com/wireframe-KxP6N9tcbt3adyeHSZcrmw)
 
 ## Main Features
 
-- Display posts
-- Read posts
 - Articles page
-- Valounteer form section
+- Activity page
 
 ## Team Members
 
-| Name              | Role                   | GitHub URL                                           |
-| ----------------- | ---------------------- | ---------------------------------------------------- |
-| Ersan Karimi      | Lead, Frontend, Design | [@ersankarimi](https://github.com/ersankarimi)       |
-| Intan Permatasari | Frontend, Design       | [@intanpermata11](https://github.com/intanpermata11) |
-| Meilyana Anisa    | Frontend Design        | [@meilyanaanisa](https://github.com/meilyanaanisa)   |
+| Name         | Role                   | GitHub URL                                        |
+| ------------ | ---------------------- | ------------------------------------------------- |
+| Tegar Risqy  | Lead, Frontend, Design | [@TegarRizky123](https://github.com/TegarRizky123)|
+| Reza Saputra | Frontend, Design       | [@imreeply](https://github.com/imreeply)          |
+| Donita Primi | Frontend, Design       | [@donprimi](https://github.com/donprimi)          |
 
 ## Tech Stack
 

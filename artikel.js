@@ -30,7 +30,7 @@ buttonLogOut.addEventListener("click", function (e) {
 
   localStorage.removeItem("user_id");
 
-  window.location = "/page/sign-in.html";
+  window.location = "sign-in.html";
 });
 
 const detail = function (e, id) {

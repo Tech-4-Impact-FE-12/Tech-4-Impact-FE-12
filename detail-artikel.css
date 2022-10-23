@@ -1,0 +1,43 @@
+/* Card Article */
+
+section {
+  padding: 0 5rem;
+}
+
+#article-img {
+  margin-top: 10px;
+  width: 100%;
+}
+
+#article-img img {
+  min-width: 100%;
+  max-height: 500px;
+}
+
+#title-content h1 {
+  padding: 10px 0px;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+#title-content h6 {
+  display: flex;
+  padding: 0px 0px;
+  color: rgb(105, 103, 103);
+}
+
+.news-content p {
+  display: flex;
+  font-size: 18px;
+  padding: 10px 0px;
+  text-align: justify;
+}
+/* End Card Article */
+
+/* Share */
+
+.sosmed {
+  padding: 10px 0px;
+}
+
+/* End Share */

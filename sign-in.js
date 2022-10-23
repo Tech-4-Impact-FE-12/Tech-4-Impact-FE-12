@@ -39,7 +39,7 @@ document.getElementById("FormSignIn").addEventListener("submit", function (e) {
         if (loggingUser.password === password) {
           console.log("login berhasil....");
           localStorage.setItem("user_id", loggingUser.id);
-          window.location = "/page/home.html";
+          window.location = "home.html";
         } else {
           alert("password salah!!!");
         }
